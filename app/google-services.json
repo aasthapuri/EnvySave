@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "495601732625",
+    "project_id": "save-84561",
+    "storage_bucket": "save-84561.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:495601732625:android:019e4baf285db804d475b0",
+        "android_client_info": {
+          "package_name": "com.example.envy_save"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "495601732625-i1g81aj9jcvk2vkmdimmg8gnqqdeb0fn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtlAgVCWEdqN2eT0SUMJ6rJY9Jbr5Diis"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "495601732625-i1g81aj9jcvk2vkmdimmg8gnqqdeb0fn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
